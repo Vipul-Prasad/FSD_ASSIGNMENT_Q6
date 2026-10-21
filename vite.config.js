@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Q6-Counter/',
+  base: '/FSD_ASSIGNMENT_Q6/',
 })
